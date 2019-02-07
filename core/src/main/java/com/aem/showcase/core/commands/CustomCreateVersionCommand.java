@@ -64,10 +64,6 @@ public class CustomCreateVersionCommand implements WCMCommand {
 					if (StringUtils.isNotEmpty(modelId)) {
 						String[] validStates = getValidLifeCycleState(modelId, resolver);
 						if (validStates != null) {
-							for (int j = 0; j < validStates.length; j++) {
-								logger.debug(" validStates : " + validStates[j]);
-							}
-
 							String currentLifeCycleState = lifeCycleStateService.getCurrentLifeCycleState(resolver,
 									pagePath[i]);
 							logger.debug(" currentLifeCycleState : " + currentLifeCycleState);
