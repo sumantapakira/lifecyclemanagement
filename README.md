@@ -10,6 +10,7 @@ for reviewer to review.
 3. Marketers or content authors needs a tool make quick decision as per the business rule. AEM workflow engine does this work but it does not gives the status
 of a page or asset in the GUI to make a quick decision. Some third party tools can be integrated but it comes with additional cost.
 4. Marketers want to have permission based tool which allows to apply business process for quick decision.
+5. If content author rolls out a page then the child page gets overriden even when the work in progress on that child page.
 
 Solution:
 Life cycle management tool is a feature which signifies the different states of a page or an assets. User can define their own life cycle model and states and apply those states during various workflow process or apply directly with proper permission.
