@@ -1,4 +1,4 @@
-Use case: Life Cycle Management System
+Use case: Life Cycle Management System in AEM
 
 Problem statement:
 1. Marketers or content authors wants to have a solution where they can quickly define the state of an asset or a page. A state of an asset or page defines the
