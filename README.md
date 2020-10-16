@@ -25,4 +25,4 @@ it shows the corresponding color in Touch UI interface. This gives the ability f
 Life cycle becomes more powerful in association with workflow engine. This functionality can be integrated with AEM workflow engine or can be used independently with proper permission.
 Someone can configure AEM workflow engine with Life cycle tool seamlessly.
 
-Demo : https://youtu.be/nJq4mRlMZlY
+Demo : https://www.youtube.com/watch?v=sbBHK_umOz0
